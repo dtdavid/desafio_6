@@ -106,8 +106,12 @@ header h1 {
     display: flex;
     list-style-type: none;
     padding: 10px;
+    gap: 0.3;
 }
 .icon {
     margin-right: 8px;
+}
+.fab:hover{
+    color: rgb(3, 159, 58);
 }
 
